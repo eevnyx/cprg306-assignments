@@ -7,6 +7,7 @@ export default function Home(){
     {week: 4, href:"/week-4"},
     {week: 5, href:"/week-5"},
     {week: 6, href:"/week-6"},
+    {week: 7, href:"/week-7"},
   ]
 
   return(
